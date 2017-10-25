@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Stop! We need a photo of this“
+title:  "Stop! We need a photo of this"
 date:   2017-10-24 20:28:00 -0400
 categories: adventure bikes
 ---
