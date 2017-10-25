@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Hawks and pigeons“
+title: Hawks and pigeons
 date: 2017-10-25 18:04:00 -0400
 categories: nature
 ---
